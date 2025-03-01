@@ -26,7 +26,7 @@ cd PokemonSaveBackup
 
 ### Run the Application
 ```sh
-python main.py
+python pokemonsavebackup.py
 ```
 
 ## Usage
